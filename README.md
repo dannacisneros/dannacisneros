@@ -2,7 +2,7 @@
 
 **Analista de Ciberseguridad Jr. en Formación | Estudiante de Marketing Digital y Gestión de Ventas**
 
-¡Bienvenida/o a mi perfil! Me apasiona el cruce entre la tecnología, la seguridad de la información y la comunicación visual. Actualmente me estoy formando para proteger infraestructuras digitales, combinando mi aprendizaje técnico con mis conocimientos en marketing digital para crear estrategias de concientización de seguridad (Security Awareness) efectivas y accesibles.
+¡Bienvenida/o a mi perfil! Me apasiona el cruce entre la tecnología, la seguridad de la información y la comunicación visual. Actualmente me estoy formando para proteger infraestructuras digitales, combinando mi aprendizaje técnico con mis conocimientos en marketing digital para crear estrategias de concientización de seguridad efectivas y accesibles.
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente me especializo en los fundamentos de redes y la defensa contra amenazas cibernéticas a través del programa **JA Mujer Digital**.
